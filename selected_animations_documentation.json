@@ -1,0 +1,36 @@
+[
+    {
+        "animation_id": "SF_play_467_movement",
+        "team": "SF",
+        "play_id": 467,
+        "game_id": 2022091102,
+        "animation_type": "movement",
+        "metrics": {
+            "path_efficiency": 0.1872317283952468,
+            "avg_deviation": 1.7490301355078872,
+            "total_distance": 14.503083280526358
+        },
+        "play_context": {
+            "quarter": 1,
+            "down": 2,
+            "yards_to_go": 10,
+            "play_description": "(8:22) D.Montgomery left guard to CHI 35 for 3 yards (T.Hufanga, F.Warner)."
+        },
+        "key_features": {
+            "movement_patterns": [
+                "Initial defensive alignment",
+                "Coverage adjustment response",
+                "Defender spacing maintenance",
+                "Route recognition reaction",
+                "Recovery movement patterns"
+            ],
+            "technical_highlights": [
+                "Speed variations during coverage",
+                "Directional changes",
+                "Zone handoff execution",
+                "Space maintenance discipline"
+            ]
+        },
+        "markdown_description": "\n## Defensive Movement Analysis: SF Play 467\n\n### Play Context\n- Quarter: 1\n- Down: 2\n- Yards to Go: 10\n- Situation: (8:22) D.Montgomery left guard to CHI 35 for 3 yards (T.Hufanga, F.Warner).\n\n### Key Defensive Features\n1. **Initial Formation**\n   - Defenders aligned in SF base defense\n   - Structured spacing creating optimal coverage zones\n\n2. **Movement Efficiency**\n   - Path Efficiency: 0.19\n   - Average Deviation: 1.75 yards\n   - Total Distance: 14.50 yards\n\n3. **Coverage Execution**\n   - Synchronized defensive adjustments\n   - Maintained zone integrity throughout the play\n   - Effective space control and gap discipline\n\n### Technical Analysis\n- White dots represent defender positions\n- Trailing lines show recent movement paths\n- Speed indicators display instantaneous velocity\n- Coverage zones illustrated by position relationships\n"
+    }
+]

@@ -1,0 +1,7 @@
+,avg_speed,avg_speed,max_speed,max_speed,direction_changes,direction_changes,total_distance,total_distance
+,mean,std,mean,std,mean,std,mean,std
+pattern,,,,,,,,
+0,1.0,0.7,4.79,1.54,53.86,19.49,23.69,8.38
+1,0.68,0.39,2.98,1.09,47.73,17.98,13.63,5.34
+2,1.2,0.72,4.32,0.77,37.43,18.96,20.8,9.19
+3,1.5,0.69,5.68,2.35,29.62,13.68,26.08,11.16

@@ -1,0 +1,523 @@
+{
+    "plots": [
+        {
+            "filename": "ARI_coverage_heatmap.png",
+            "dimensions": [
+                3436,
+                2112
+            ],
+            "size_mb": 0.1458148956298828,
+            "type": "plot"
+        },
+        {
+            "filename": "LA_coverage_heatmap.png",
+            "dimensions": [
+                3436,
+                2112
+            ],
+            "size_mb": 0.1375436782836914,
+            "type": "plot"
+        },
+        {
+            "filename": "SEA_coverage_heatmap.png",
+            "dimensions": [
+                3436,
+                2112
+            ],
+            "size_mb": 0.14572429656982422,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_coverage_heatmap.png",
+            "dimensions": [
+                3436,
+                2112
+            ],
+            "size_mb": 0.14177799224853516,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_formation_analysis.png",
+            "dimensions": [
+                1500,
+                1200
+            ],
+            "size_mb": 0.08391380310058594,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_constraints.png",
+            "dimensions": [
+                4472,
+                3571
+            ],
+            "size_mb": 0.2612342834472656,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_formation.png",
+            "dimensions": [
+                3694,
+                2249
+            ],
+            "size_mb": 0.14855289459228516,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_patterns.png",
+            "dimensions": [
+                4469,
+                3570
+            ],
+            "size_mb": 0.4820709228515625,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_38868.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.45589637756347656,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_42360.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.45891475677490234,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_44938.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.43044090270996094,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_46139.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.4411745071411133,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_46354.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.4522247314453125,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_46757.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.45377445220947266,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_47785.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.45188140869140625,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_47931.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.4580831527709961,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_47944.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.43914318084716797,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_53609.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.45034027099609375,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_player_54637.0_efficiency.png",
+            "dimensions": [
+                4462,
+                3571
+            ],
+            "size_mb": 0.4427528381347656,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_1992_trajectories.png",
+            "dimensions": [
+                3694,
+                2181
+            ],
+            "size_mb": 0.32573604583740234,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_constraints.png",
+            "dimensions": [
+                4472,
+                3571
+            ],
+            "size_mb": 0.2766590118408203,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_formation.png",
+            "dimensions": [
+                3694,
+                2249
+            ],
+            "size_mb": 0.1475391387939453,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_patterns.png",
+            "dimensions": [
+                4469,
+                3570
+            ],
+            "size_mb": 0.47996997833251953,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_38868.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.41556358337402344,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_43405.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4499702453613281,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_46139.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.5120792388916016,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_46354.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.44245433807373047,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_46757.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.43309593200683594,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_47785.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4590320587158203,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_47931.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.5059671401977539,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_47944.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4158487319946289,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_48123.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.5044689178466797,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_53609.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4854402542114258,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_player_54637.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4940500259399414,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_467_trajectories.png",
+            "dimensions": [
+                3694,
+                2181
+            ],
+            "size_mb": 0.23807716369628906,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_constraints.png",
+            "dimensions": [
+                4472,
+                3571
+            ],
+            "size_mb": 0.28143882751464844,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_formation.png",
+            "dimensions": [
+                3694,
+                2249
+            ],
+            "size_mb": 0.15459346771240234,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_patterns.png",
+            "dimensions": [
+                4469,
+                3570
+            ],
+            "size_mb": 0.4848480224609375,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_38868.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4580411911010742,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_41786.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4720115661621094,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_43405.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.43237972259521484,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_46139.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.43808746337890625,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_46354.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4778881072998047,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_46757.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.44150447845458984,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_47785.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.467987060546875,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_47931.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.44185638427734375,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_48123.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4787788391113281,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_48268.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4531440734863281,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_player_53609.0_efficiency.png",
+            "dimensions": [
+                4468,
+                3571
+            ],
+            "size_mb": 0.4563865661621094,
+            "type": "plot"
+        },
+        {
+            "filename": "SF_play_989_trajectories.png",
+            "dimensions": [
+                3694,
+                2181
+            ],
+            "size_mb": 0.24621295928955078,
+            "type": "plot"
+        },
+        {
+            "filename": "coverage_metrics_comparison.png",
+            "dimensions": [
+                1500,
+                600
+            ],
+            "size_mb": 0.03328227996826172,
+            "type": "plot"
+        },
+        {
+            "filename": "defensive_speed_distribution.png",
+            "dimensions": [
+                1200,
+                800
+            ],
+            "size_mb": 0.058765411376953125,
+            "type": "plot"
+        }
+    ],
+    "animations": [
+        {
+            "filename": "SF_play_467_annotated.gif",
+            "size_mb": 1.7913379669189453,
+            "type": "animation"
+        },
+        {
+            "filename": "SF_play_467_coverage.gif",
+            "size_mb": 1.4566116333007812,
+            "type": "animation"
+        },
+        {
+            "filename": "SF_play_467_movement.gif",
+            "size_mb": 1.700993537902832,
+            "type": "animation"
+        }
+    ],
+    "selected": [
+        {
+            "filename": "SF_play_1992_constraints.png",
+            "size_mb": 0.2612342834472656
+        },
+        {
+            "filename": "SF_play_1992_formation.png",
+            "size_mb": 0.14855289459228516
+        },
+        {
+            "filename": "SF_play_1992_patterns.png",
+            "size_mb": 0.4820709228515625
+        },
+        {
+            "filename": "SF_play_1992_player_38868.0_efficiency.png",
+            "size_mb": 0.45589637756347656
+        },
+        {
+            "filename": "SF_play_1992_player_42360.0_efficiency.png",
+            "size_mb": 0.45891475677490234
+        },
+        {
+            "filename": "SF_play_467_annotated.gif",
+            "size_mb": 1.7913379669189453
+        },
+        {
+            "filename": "SF_play_467_coverage.gif",
+            "size_mb": 1.4566116333007812
+        },
+        {
+            "filename": "SF_play_467_movement.gif",
+            "size_mb": 1.700993537902832
+        }
+    ]
+}
